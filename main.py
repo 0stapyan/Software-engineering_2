@@ -144,4 +144,3 @@ for user in user_data:
         elif lang == "fr":
              print(f"{username} maintenant en ligne")
 
-
